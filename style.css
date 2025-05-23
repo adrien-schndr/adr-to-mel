@@ -1,0 +1,10 @@
+body{
+    font-family:inherit;
+    line-height:inherit;
+    background-color: #161217;
+}
+
+.background{
+    --tw-bg-opacity:1;
+    background-color:rgba(22,18,23,var(--tw-bg-opacity))
+}
